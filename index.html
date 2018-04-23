@@ -6,7 +6,7 @@ layout: default
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
 
     <header class="site-header">
-  <img src="{{ site.home_logo | prepend: site.baseurl }}" alt="{{ site.title }}" width="94" height="300">
+  <img src="{{ .home_logo | prepend: site.baseurl }}" alt="{{ site.title }}" width="94" height="300">
   {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
 </header>
 </div>
