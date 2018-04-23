@@ -1,9 +1,9 @@
 ---
 layout: page
-title: How To ...
+title: How To
 permalink: /howto/
 ---
 
-<h2>Some instructions to get the party started</h2>
+<h3>Some instructions to get the party started</h3>
 
 Videos ETC
