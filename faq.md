@@ -17,7 +17,7 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 <h3>FRESH INSTALL</h3>
 
 <video autoplay="false" loop="false" width="768" height="512">
-  <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
+  <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4?autoplay=0&loop=0&controls=1" type="video/mp4">
 </video>
 
 
@@ -33,7 +33,7 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 <h3>UPGRADING</h3>
 
 <video autoplay="false" loop="false" width="768" height="512">
-  <source src="https://robertflambour.github.io/CE/assets/ce_samba.mp4" type="video/mp4">
+  <source src="https://robertflambour.github.io/CE/assets/ce_samba_2.mp4?autoplay=0&loop=0&controls=1’" type="video/mp4">
 </video>
 
 
