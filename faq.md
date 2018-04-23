@@ -31,6 +31,8 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
 </video>
 
+<h3>UPGRADING</h3>
+
  {% video "https://robertflambour.github.io/CE/assets/ce_rufus.mp4 720 480 "https://robertflambour.github.io/CE/assets/logo.png %}
 
 ### Hardware Issues
