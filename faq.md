@@ -27,11 +27,13 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 
 <h3>UPGRADING Test 1</h3>
+
 <video autoplay="autoplay" loop="loop" width="768" height="512">
   <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
 </video>
 
 <h3>UPGRADING Test 2</h3>
+
 
 ### Hardware Issues
 - I have just updated and now my device will not boot
