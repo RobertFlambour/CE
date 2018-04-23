@@ -26,12 +26,12 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - The functionality is built into all of our images but is not currently active.
 
 
-<h3>UPGRADING</h3>
+<h3>UPGRADING Test 1</h3>
 <video autoplay="autoplay" loop="loop" width="768" height="512">
   <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
 </video>
 
-<h3>UPGRADING</h3>
+<h3>UPGRADING Test 2</h3>
 
  {% video "https://robertflambour.github.io/CE/assets/ce_rufus.mp4 720 480 "https://robertflambour.github.io/CE/assets/logo.png %}
 
