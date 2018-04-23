@@ -33,8 +33,6 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 <h3>UPGRADING Test 2</h3>
 
- {% video "https://robertflambour.github.io/CE/assets/ce_rufus.mp4 720 480 "https://robertflambour.github.io/CE/assets/logo.png %}
-
 ### Hardware Issues
 - I have just updated and now my device will not boot
   - This is mostly always as a result of a problem with the DTB and being *installed on internal*,
