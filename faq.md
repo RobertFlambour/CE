@@ -27,7 +27,9 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 
 <h3>UPGRADING</h3>
-<a href="/assets/ce_rufus.mp4">
+<video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/assets/ce_rufus.mp4" type="video/mp4">
+</video>
 
 
 ### Hardware Issues
