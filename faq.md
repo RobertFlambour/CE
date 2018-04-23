@@ -16,6 +16,7 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 <h3>Fresh Install</h3>
 
+{% video https://robertflambour.github.io/CE/assets/ce_rufus.mp4 768 512 https://robertflambour.github.io/CE/assets/header_image.jpg %}
 <video autoplay="0" loop="0" controls="1" width="768" height="512">
   <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
 </video>
@@ -35,7 +36,6 @@ Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_D
   <source src="https://robertflambour.github.io/CE/assets/ce_samba_2.mp4" type="video/mp4">
 </video>
 Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a>
-
 
 
 ### Hardware Issues
