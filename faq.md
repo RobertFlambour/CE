@@ -16,7 +16,9 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 <h3>Fresh Install</h3>
 
-{% video https://robertflambour.github.io/CE/assets/ce_rufus.mp4 768 512 https://robertflambour.github.io/CE/assets/header_image.jpg %}
+<video width='720' height='480' preload='none' controls poster='https://robertflambour.github.io/CE/assets/video_bg.png'>
+<source src='https://robertflambour.github.io/CE/assets/ce_rufus.mp4' type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'/>
+</video>
 
 <i>Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a></i>
 
