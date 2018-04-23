@@ -4,11 +4,14 @@ layout: default
 <div class="home">
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
-    <header class="site-header">
 
-      <img src="{{ site.home_logo | prepend: site.baseurl }}" alt="{{ site.title }}" width="300" height="94">
+    <header class="site-header">
+  <img src="{{ site.home_logo | prepend: site.baseurl }}" alt="{{ site.title }}" width="94" height="300">
+  {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+</header>
 </div>
 </div>
+
 <div class="wrapper_home">
 <p>
   We're new here, bear with us whilst we get things setup.
