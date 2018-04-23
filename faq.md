@@ -14,7 +14,11 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 - I have a WeTek Play 2, which dtb do I use?
   - gxbb_p200_2G_wetek_play_2.dtb
 
-<h3>FRESH INSTALL Videos</h3>
+<h3>FRESH INSTALL</h3>
+
+<video autoplay="false" loop="false" width="768" height="512">
+  <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
+</video>
 
 
 ### Updating/Upgrading
@@ -26,13 +30,12 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - The functionality is built into all of our images but is not currently active.
 
 
-<h3>UPGRADING Test 1</h3>
+<h3>UPGRADING</h3>
 
-<video autoplay="autoplay" loop="loop" width="768" height="512">
-  <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
+<video autoplay="false" loop="false" width="768" height="512">
+  <source src="https://robertflambour.github.io/CE/assets/ce_samba.mp4" type="video/mp4">
 </video>
 
-<h3>UPGRADING Test 2</h3>
 
 
 ### Hardware Issues
