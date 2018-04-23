@@ -14,12 +14,12 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 - I have a WeTek Play 2, which dtb do I use?
   - gxbb_p200_2G_wetek_play_2.dtb
 
-<h3>FRESH INSTALL</h3>
+<h3>Fresh Install</h3>
 
 <video autoplay="0" loop="0" controls="1" width="768" height="512">
   <source src="https://robertflambour.github.io/CE/assets/ce_rufus.mp4" type="video/mp4">
 </video>
-
+Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a>
 
 ### Updating/Upgrading
 - I currently have LibreELEC 8.2 by kszaq installed, can I update to CoreELEC?
@@ -30,11 +30,11 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - The functionality is built into all of our images but is not currently active.
 
 
-<h3>UPGRADING</h3>
-
+<h3>Upgrading</h3>
 <video autoplay="0" loop="0" width="768" height="512" controls="1">
-  <source src="https://robertflambour.github.io/CE/assets/ce_samba_2.mp4’" type="video/mp4">
+  <source src="https://robertflambour.github.io/CE/assets/ce_samba_2.mp4" type="video/mp4">
 </video>
+Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a>
 
 
 
