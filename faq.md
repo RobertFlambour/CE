@@ -26,7 +26,8 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - The functionality is built into all of our images but is not currently active.
 
 
-<h3>UPGRADING Videos</h3>
+<h3>UPGRADING</h3>
+<a href="/assets/ce_rufus.mp4">
 
 
 ### Hardware Issues
@@ -49,3 +50,6 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - These addons are dependant on inputstream.adaptive being installed and enabled and also libwidevinecdm.so being installed on your device.
 - Netflix/Amazon plays poorly at 1080p
   - This is because currently there is no H/W based decoding support for these addons so all decoding is done by the CPU which is not powerful enough to decode 1080p.
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+{% include open-embed.html %}
