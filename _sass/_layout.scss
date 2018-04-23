@@ -88,9 +88,9 @@ pre code.hljs {
 		padding: 3em 1em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
-			padding: 2em 1em !important;
+			padding: 3em 1em !important;
 			@include media($tablet) {
-				padding: 2em 1em !important;
+				padding: 3em 1em !important;
 			}
 		}
 	}
@@ -256,7 +256,7 @@ pre code.hljs {
 		display: block;
 		margin: auto;
 		width:auto;
-		/* width: 90%; */
+		/* width: 90%; *
 	}
 	/*
 	*	Posts
