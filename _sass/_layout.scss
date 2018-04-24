@@ -19,6 +19,15 @@ html, body {
 	width: 100%;
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+
 ol.default {
   @extend %default-ol;
 }
