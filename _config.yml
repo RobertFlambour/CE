@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: CoreELEC
-subtitle: "more to the core"
+subtitle: "A lightweight O/S for KODI"
 
 description: >
   CoreELEC is a lightweight O/S for KODI.
