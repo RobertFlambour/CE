@@ -15,11 +15,6 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - gxbb_p200_2G_wetek_play_2.dtb
 
 <h3>Fresh Install</h3>
-
-<video width='720' height='480' preload='none' autoplay='none' autoplay='0' controls poster='https://robertflambour.github.io/CE/assets/video_bg.png'>
-<source src='https://robertflambour.github.io/CE/assets/ce_rufus.mp4' type='video/mp4;'/>
-</video>
-
 <i>Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a></i>
 
 ### Updating/Upgrading
@@ -32,9 +27,7 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 
 <h3>Upgrading</h3>
-<video autoplay="0" loop="0" width="768" height="512" controls="1">
-  <source src="https://robertflambour.github.io/CE/assets/ce_samba_2.mp4" type="video/mp4">
-</video>
+
 Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a>
 
 
