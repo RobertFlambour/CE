@@ -20,11 +20,15 @@ html, body {
 }
 
 a {
-    color: black;
+color: black!important;
+text-decoration:none;
 }
-
-a:hover {
-    color: black;
+a:active,a:focus,a:hover {
+color: black!important;
+ text-decoration:underline;
+}
+a:active,a:focus {
+ outline:none;
 }
 
 
