@@ -105,7 +105,7 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 2px $highlight-color;
+	box-shadow: 0 2px #2d2d2d;
 	padding: 0 1em;
 	margin: 0;
 	/*
@@ -375,7 +375,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $gray;
+	background-color: #2d2d2d;
 	color: $white;
 	a {
 	  color: $link-color;
