@@ -16,7 +16,7 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 
 <h3>Fresh Install</h3>
 
-<video width='720' height='480' preload='none' controls poster='https://robertflambour.github.io/CE/assets/video_bg.png'>
+<video width='720' height='480' preload='none' autoplay='none' autoplay='0' controls poster='https://robertflambour.github.io/CE/assets/video_bg.png'>
 <source src='https://robertflambour.github.io/CE/assets/ce_rufus.mp4' type='video/mp4;'/>
 </video>
 
