@@ -84,6 +84,11 @@ pre code.hljs {
 			font-size: modular-scale(1);
 		}
 	}
+
+	.subtitle {
+		padding-top:2em;
+}
+
 	.scrim {
 		padding: 4em 1em;
 		&.has-cover {
@@ -267,7 +272,7 @@ pre code.hljs {
 		}
 		.post-header-container {
 			.scrim {
-				padding: 2em 1em 1em 1em;
+				padding: 3em 1em 1em 1em;
 			}
 		}
 		.post-meta {
