@@ -21,16 +21,11 @@ html, body {
 
 a {
 color: black!important;
-text-decoration:none;
-}
-a:active,a:focus,a:hover {
-color: black!important;
- text-decoration:underline;
-}
-a:active,a:focus {
- outline:none;
 }
 
+a:active,a:focus,a:hover {
+color: black!important;
+}
 
 ol.default {
   @extend %default-ol;
