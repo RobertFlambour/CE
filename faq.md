@@ -14,9 +14,6 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
 - I have a WeTek Play 2, which dtb do I use?
   - gxbb_p200_2G_wetek_play_2.dtb
 
-<h3>Fresh Install</h3>
-<i>Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a></i>
-
 ### Updating/Upgrading
 - I currently have LibreELEC 8.2 by kszaq installed, can I update to CoreELEC?
   - Absolutely, our releases are fully compatible with upgrading from kszaq's builds
@@ -24,12 +21,6 @@ Answers to some of the most commonly asked questions related to CoreELEC are lis
   - There is a few methods you can use to update however the easiest method is to just place the *tar* file inside of the Update folder and then to just reboot, do not place any other files in the update folder like DTB's.
 - Does CoreELEC auto-update?
   - The functionality is built into all of our images but is not currently active.
-
-
-<h3>Upgrading</h3>
-
-Music: <a href="http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/04_rolemusic_-_the_pirate_and_the_dancer">The Pirate And The Dancer by Rolemusic</a>
-
 
 ### Hardware Issues
 - I have just updated and now my device will not boot
