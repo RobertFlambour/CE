@@ -18,13 +18,20 @@ html, body {
 	padding: 0;
 	width: 100%;
 }
+.site-footer a {
+color:white;
+}
+
+.site-footer a:active,a:focus,a:hover {
+color:white;
+}
 
 a {
-color: black!important;
+color: black;
 }
 
 a:active,a:focus,a:hover {
-color: black!important;
+color: black;
 }
 
 ol.default {
